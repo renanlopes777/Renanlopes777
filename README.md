@@ -1,4 +1,7 @@
-## Olá, Bem Vindo  ! 👋
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Renan+Lopes!;" />
+</h1>
 
 
 - 🔭 Estudante de Programação e Desenvolvimento de app Android & iOs.
@@ -9,7 +12,6 @@
   <a href="https://github.com/renanlopes777">
  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=renanlopes777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlopes777&layout=compact&langs_count=16&theme=dracula"/>
-
 </div>
 
  <div style="display: inline_block"><br>
@@ -34,4 +36,7 @@
  
 
 </div>
-  
+
+  <h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
