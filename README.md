@@ -4,14 +4,15 @@
 </h1>
 
 
-- 🔭 Estudante de Programação e Desenvolvimento de app Android & iOs.
+- 🔭 Sou desenvolvedor focado em React Native e tecnologias JavaScript. Apaixonado por construir apps que realmente funcionam e são fáceis de usar.
 - 🌱 React Native, javascript, node.js, Mobile, Expo, Visual Studio Code. 
 - 😍 Apaixonado por Tecnologia  
 
 <div>
-  <a href="https://github.com/renanlopes777">
- <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=renanlopes777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlopes777&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/renanlopes777" target="_blank" rel="noopener noreferrer">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=renanlopes777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanlopes777&layout=compact&langs_count=16&theme=dracula" />
+  </a>
 </div>
 
  <div style="display: inline_block"><br>
