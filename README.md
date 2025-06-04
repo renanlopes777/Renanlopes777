@@ -6,8 +6,13 @@
 
 - 🔭 Sou desenvolvedor focado em React Native e tecnologias JavaScript.
 - 😍 Apaixonado por construir apps que realmente funcionam e são fáceis de usar.
-- 🌱 React Native, javascript, Node.js, Expo, Visual Studio Code.
 
+## Minhas Skills
+
+- 💻 JavaScript (ES6+), React, React Native
+- ⚛️ Node.js, VS.Code
+- 📱 Desenvolvimento Mobile (Expo)
+- 🐙 Git & GitHub
 
 <div>
   <a href="https://github.com/renanlopes777" target="_blank" rel="noopener noreferrer">
