@@ -3,6 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Renan+Lopes!;" />
 </h1>
 
+Desenvolvedor Júnior | React | React Native | TypeScript | Node.js
+
 Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e estou em busca da minha primeira oportunidade profissional na área de desenvolvimento de software.
 
 Tenho experiência prática em projetos acadêmicos e pessoais, principalmente no desenvolvimento de aplicações Web e Mobile, utilizando tecnologias do ecossistema JavaScript.
