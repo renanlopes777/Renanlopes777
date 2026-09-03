@@ -9,10 +9,31 @@ Tenho experiência prática em projetos acadêmicos e pessoais, principalmente n
 
 Meu objetivo é transformar conhecimento técnico em soluções reais, contribuir com equipes de desenvolvimento e continuar evoluindo profissionalmente.
 
-## Minhas Skills
+🚀 Minhas Skills
 
-- 💻 JavaScript, React, React Native, Expo, Node.js, PostgreSQL, Git/GitHub, API REST.
-- 🎓 Formação Análise e Desenvolvimento de Sistemas — ADS Faculdade Martha Falcão Wyden
+ 💻 Desenvolvimento
+ 
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Expo
+- Node.js
+- APIs REST
+
+🗄️ Banco de Dados
+
+- PostgreSQL
+- SQL
+  
+🛠️ Ferramentas
+
+- Git
+- GitHub
+- Visual Studio Code
+  
+- 🎓 Formação Análise e Desenvolvimento de Sistemas — ADS
+   Faculdade Martha Falcão Wyden
 
 🎯 Objetivo Profissional
 
