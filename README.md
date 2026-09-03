@@ -9,6 +9,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e estou em busca da 
 
 Tenho experiência prática em projetos acadêmicos e pessoais, principalmente no desenvolvimento de aplicações Web e Mobile, utilizando tecnologias do ecossistema JavaScript.
 
+Meu objetivo é transformar conhecimento técnico em soluções reais, contribuir com equipes de desenvolvimento e continuar evoluindo profissionalmente.
+
 ## Minhas Skills
 
 - 💻 JavaScript, React, React Native, Expo, Node.js, PostgreSQL, Git/GitHub, API REST.
