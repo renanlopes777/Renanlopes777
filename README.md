@@ -56,6 +56,9 @@ Estou em busca da minha primeira oportunidade profissional na área de tecnologi
 Tenho interesse em oportunidades presenciais, híbridas ou remotas.
 
 📚 Atualmente estudando
+
+Atualmente estou aprimorando meus conhecimentos em:
+
 - TypeScript
 - React
 - React Native
