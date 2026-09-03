@@ -58,6 +58,6 @@ Tenho interesse em oportunidades presenciais, híbridas ou remotas.
 
 Sou uma pessoa focada em aprendizado contínuo e gosto de transformar problemas em soluções através da tecnologia.
 
-Durante minha formação em ADS, desenvolvi projetos envolvendo desenvolvimento Web, Mobile, APIs, banco de dados e integração entre sistemas.
+Tenho desenvolvido projetos envolvendo desenvolvimento Web, Mobile, APIs, banco de dados e integração entre sistemas, buscando aplicar na prática os conhecimentos adquiridos durante minha formação em ADS.
 
 
