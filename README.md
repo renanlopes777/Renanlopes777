@@ -34,7 +34,7 @@ Meu objetivo é transformar conhecimento técnico em soluções reais, contribui
 - GitHub
 - Visual Studio Code
 
-🎓 Formação 📚 
+🎓 Formação  
 
 - Análise e Desenvolvimento de Sistemas — ADS
 -  Faculdade Martha Falcão Wyden
