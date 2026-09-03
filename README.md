@@ -24,13 +24,13 @@ Tenho interesse em oportunidades presenciais, híbridas ou remotas.
 
 📚 Atualmente estudando
 - TypeScript
--React
--React Native
--Node.js
--PostgreSQL
--APIs REST
--Boas práticas de desenvolvimento
--Git e GitHub
+- React
+- React Native
+- Node.js
+- PostgreSQL
+- APIs REST
+- Boas práticas de desenvolvimento
+- Git e GitHub
 
 💡 Sobre mim
 
