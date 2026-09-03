@@ -18,7 +18,15 @@ Meu objetivo é transformar conhecimento técnico em soluções reais, contribui
 
 Estou em busca da minha primeira oportunidade profissional na área de tecnologia, com interesse principalmente em:
 
-Desenvolvedor Júnior, Desenvolvedor Front-end Júnior, Desenvolvedor React Júnior, Desenvolvedor Full Stack Júnior, Desenvolvedor Mobile Júnior, Desenvolvedor React Native Júnior, Analista de Sistemas Júnior, Trainee em Desenvolvimento.
+- Desenvolvedor Júnior
+- Desenvolvedor Front-end Júnior
+- Desenvolvedor React Júnior
+- Desenvolvedor Full Stack Júnior
+- Desenvolvedor Mobile Júnior
+- Desenvolvedor React Native Júnior
+- Analista de Sistemas Júnior
+- Trainee em Desenvolvimento
+
 
 Tenho interesse em oportunidades presenciais, híbridas ou remotas.
 
