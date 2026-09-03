@@ -60,8 +60,6 @@ Sou uma pessoa focada em aprendizado contínuo e gosto de transformar problemas 
 
 Durante minha formação em ADS, desenvolvi projetos envolvendo desenvolvimento Web, Mobile, APIs, banco de dados e integração entre sistemas.
 
-Atualmente estou direcionando meus estudos para o desenvolvimento de software e construindo projetos para fortalecer meu portfólio profissional.
-
 
 
  <div style="display: inline_block"><br>
