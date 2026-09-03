@@ -34,7 +34,7 @@ Meu objetivo é transformar conhecimento técnico em soluções reais, contribui
 - GitHub
 - Visual Studio Code
 
-🎓 Formação 
+🎓 Formação 📚 
 
 - Análise e Desenvolvimento de Sistemas — ADS
 -  Faculdade Martha Falcão Wyden
@@ -52,21 +52,7 @@ Estou em busca da minha primeira oportunidade profissional na área de tecnologi
 - Analista de Sistemas Júnior
 - Trainee em Desenvolvimento
 
-
 Tenho interesse em oportunidades presenciais, híbridas ou remotas.
-
-📚 Atualmente estudando
-
-Atualmente estou aprimorando meus conhecimentos em:
-
-- TypeScript
-- React
-- React Native
-- Node.js
-- PostgreSQL
-- APIs REST
-- Boas práticas de desenvolvimento
-- Git e GitHub
 
 💡 Sobre mim
 
