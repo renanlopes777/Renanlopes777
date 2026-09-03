@@ -14,6 +14,40 @@ Meu objetivo é transformar conhecimento técnico em soluções reais, contribui
 ## Minhas Skills
 
 - 💻 JavaScript, React, React Native, Expo, Node.js, PostgreSQL, Git/GitHub, API REST.
+- 🎓 Formação Análise e Desenvolvimento de Sistemas — ADS Faculdade Martha Falcão Wyden
+
+🎯 Objetivo Profissional
+
+Estou em busca da minha primeira oportunidade profissional na área de tecnologia, com interesse principalmente em:
+
+Desenvolvedor Júnior
+Desenvolvedor Front-end Júnior
+Desenvolvedor React Júnior
+Desenvolvedor Full Stack Júnior
+Desenvolvedor Mobile Júnior
+Desenvolvedor React Native Júnior
+Analista de Sistemas Júnior
+Trainee em Desenvolvimento
+
+Tenho interesse em oportunidades presenciais, híbridas ou remotas.
+
+📚 Atualmente estudando
+TypeScript
+React
+React Native
+Node.js
+PostgreSQL
+APIs REST
+Boas práticas de desenvolvimento
+Git e GitHub
+
+💡 Sobre mim
+
+Sou uma pessoa focada em aprendizado contínuo e gosto de transformar problemas em soluções através da tecnologia.
+
+Durante minha formação em ADS, desenvolvi projetos envolvendo desenvolvimento Web, Mobile, APIs, banco de dados e integração entre sistemas.
+
+Atualmente estou direcionando meus estudos para o desenvolvimento de software e construindo projetos para fortalecer meu portfólio profissional.
 
 
 
