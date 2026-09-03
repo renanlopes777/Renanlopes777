@@ -11,10 +11,7 @@ Tenho experiência prática em projetos acadêmicos e pessoais, principalmente n
 
 ## Minhas Skills
 
-- 💻 JavaScript, React, React Native
-- ⚛️ Node.js, VS.Code
-- 📱 Desenvolvimento Mobile (Expo)
-- 🐙 Git & GitHub
+- 💻 JavaScript, React, React Native, Expo, Node.js, PostgreSQL, Git/GitHub, API REST.
 
 <div>
   <a href="https://github.com/renanlopes777" target="_blank" rel="noopener noreferrer">
